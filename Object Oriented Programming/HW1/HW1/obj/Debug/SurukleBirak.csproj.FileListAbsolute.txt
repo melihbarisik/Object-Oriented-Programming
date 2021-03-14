@@ -1,0 +1,30 @@
+C:\Users\Melih Ensar Barışık\Desktop\SurukleBirak\SurukleBirak\bin\Debug\SurukleBirak.exe.config
+C:\Users\Melih Ensar Barışık\Desktop\SurukleBirak\SurukleBirak\bin\Debug\SurukleBirak.exe
+C:\Users\Melih Ensar Barışık\Desktop\SurukleBirak\SurukleBirak\bin\Debug\SurukleBirak.pdb
+C:\Users\Melih Ensar Barışık\Desktop\SurukleBirak\SurukleBirak\obj\Debug\SurukleBirak.csprojAssemblyReference.cache
+C:\Users\Melih Ensar Barışık\Desktop\SurukleBirak\SurukleBirak\obj\Debug\SurukleBirak.Form1.resources
+C:\Users\Melih Ensar Barışık\Desktop\SurukleBirak\SurukleBirak\obj\Debug\SurukleBirak.Properties.Resources.resources
+C:\Users\Melih Ensar Barışık\Desktop\SurukleBirak\SurukleBirak\obj\Debug\SurukleBirak.csproj.GenerateResource.cache
+C:\Users\Melih Ensar Barışık\Desktop\SurukleBirak\SurukleBirak\obj\Debug\SurukleBirak.csproj.CoreCompileInputs.cache
+C:\Users\Melih Ensar Barışık\Desktop\SurukleBirak\SurukleBirak\obj\Debug\SurukleBirak.exe
+C:\Users\Melih Ensar Barışık\Desktop\SurukleBirak\SurukleBirak\obj\Debug\SurukleBirak.pdb
+C:\Users\Melih Ensar Barışık\Desktop\Ödev\OOP\NDP ödev\SurukleBirak\bin\Debug\SurukleBirak.exe.config
+C:\Users\Melih Ensar Barışık\Desktop\Ödev\OOP\NDP ödev\SurukleBirak\bin\Debug\SurukleBirak.exe
+C:\Users\Melih Ensar Barışık\Desktop\Ödev\OOP\NDP ödev\SurukleBirak\bin\Debug\SurukleBirak.pdb
+C:\Users\Melih Ensar Barışık\Desktop\Ödev\OOP\NDP ödev\SurukleBirak\obj\Debug\SurukleBirak.csprojAssemblyReference.cache
+C:\Users\Melih Ensar Barışık\Desktop\Ödev\OOP\NDP ödev\SurukleBirak\obj\Debug\SurukleBirak.Form1.resources
+C:\Users\Melih Ensar Barışık\Desktop\Ödev\OOP\NDP ödev\SurukleBirak\obj\Debug\SurukleBirak.Properties.Resources.resources
+C:\Users\Melih Ensar Barışık\Desktop\Ödev\OOP\NDP ödev\SurukleBirak\obj\Debug\SurukleBirak.csproj.GenerateResource.cache
+C:\Users\Melih Ensar Barışık\Desktop\Ödev\OOP\NDP ödev\SurukleBirak\obj\Debug\SurukleBirak.csproj.CoreCompileInputs.cache
+C:\Users\Melih Ensar Barışık\Desktop\Ödev\OOP\NDP ödev\SurukleBirak\obj\Debug\SurukleBirak.exe
+C:\Users\Melih Ensar Barışık\Desktop\Ödev\OOP\NDP ödev\SurukleBirak\obj\Debug\SurukleBirak.pdb
+C:\Users\Melih Ensar Barışık\Desktop\Ödev\OOP\B181210393\SurukleBirak\bin\Debug\SurukleBirak.exe.config
+C:\Users\Melih Ensar Barışık\Desktop\Ödev\OOP\B181210393\SurukleBirak\bin\Debug\SurukleBirak.exe
+C:\Users\Melih Ensar Barışık\Desktop\Ödev\OOP\B181210393\SurukleBirak\bin\Debug\SurukleBirak.pdb
+C:\Users\Melih Ensar Barışık\Desktop\Ödev\OOP\B181210393\SurukleBirak\obj\Debug\SurukleBirak.csprojAssemblyReference.cache
+C:\Users\Melih Ensar Barışık\Desktop\Ödev\OOP\B181210393\SurukleBirak\obj\Debug\SurukleBirak.Form1.resources
+C:\Users\Melih Ensar Barışık\Desktop\Ödev\OOP\B181210393\SurukleBirak\obj\Debug\SurukleBirak.Properties.Resources.resources
+C:\Users\Melih Ensar Barışık\Desktop\Ödev\OOP\B181210393\SurukleBirak\obj\Debug\SurukleBirak.csproj.GenerateResource.cache
+C:\Users\Melih Ensar Barışık\Desktop\Ödev\OOP\B181210393\SurukleBirak\obj\Debug\SurukleBirak.csproj.CoreCompileInputs.cache
+C:\Users\Melih Ensar Barışık\Desktop\Ödev\OOP\B181210393\SurukleBirak\obj\Debug\SurukleBirak.exe
+C:\Users\Melih Ensar Barışık\Desktop\Ödev\OOP\B181210393\SurukleBirak\obj\Debug\SurukleBirak.pdb
